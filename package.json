@@ -1,6 +1,6 @@
 {
   "name": "node-puff",
-  "version": "1.0.0-1",
+  "version": "1.0.0-2",
   "description": "Promisify ALL the node.js modules (with proxies).",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
