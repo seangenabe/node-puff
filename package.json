@@ -1,0 +1,31 @@
+{
+  "name": "node-puff",
+  "version": "1.0.0-1",
+  "description": "Promisify ALL the node.js modules (with proxies).",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/seangenabe/node-puff",
+  "author": "Sean Genabe <seangenabe@outlook.com>",
+  "repository": "seangenabe/node-puff",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "promisify",
+    "promise",
+    "async",
+    "wrapper",
+    "wrap",
+    "promisify",
+    "denodify",
+    "denodeify",
+    "node",
+    "callback"
+  ],
+  "dependencies": {
+    "puff": "^1.0.0"
+  }
+}
