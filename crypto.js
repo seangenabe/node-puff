@@ -1,4 +1,4 @@
-const crypto = require('crpyto')
+const crypto = require('crypto')
 
 module.exports = require('puff/obj')(crypto, {
   filter(key) {
