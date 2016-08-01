@@ -26,6 +26,6 @@
     "callback"
   ],
   "dependencies": {
-    "puff": "^1.0.0"
+    "puff": "^1.1.0"
   }
 }
