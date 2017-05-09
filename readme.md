@@ -1,5 +1,7 @@
 # node-puff
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seangenabe/node-puff.svg)](https://greenkeeper.io/)
+
 Promisify ALL the node.js modules (with proxies).
 
 [![npm](https://img.shields.io/npm/v/node-puff.svg?style=flat-square)](https://www.npmjs.com/package/node-puff)
