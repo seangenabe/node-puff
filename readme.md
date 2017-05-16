@@ -1,5 +1,7 @@
 # node-puff
 
+**DEPRECATED.** Please use [mz](https://github.com/normalize/mz) instead.
+
 Promisify ALL the node.js modules (with proxies).
 
 [![npm](https://img.shields.io/npm/v/node-puff.svg?style=flat-square)](https://www.npmjs.com/package/node-puff)
